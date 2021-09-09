@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.exe
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\bin\Debug\netcoreapp3.1\ControlFlow.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\ControlFlow\obj\Debug\netcoreapp3.1\ControlFlow.genruntimeconfig.cache

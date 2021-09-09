@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.exe
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\bin\Debug\netcoreapp3.1\WhenWereYouBorn.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.dll
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.pdb
+C:\Users\opilane\source\repos\LOGITpe21\ControlFlow\WhenWereYouBorn\obj\Debug\netcoreapp3.1\WhenWereYouBorn.genruntimeconfig.cache
